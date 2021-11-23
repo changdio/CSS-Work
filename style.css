@@ -1,0 +1,11 @@
+h1{ /* h1 is the selector */
+    color:blue;
+    text-align: center;
+    border: 2px solid red;
+}
+
+h3{ /* h3 is the selector */
+    color:red;
+    text-align: right;
+    border: 2px solid blue;
+}
